@@ -1,6 +1,6 @@
 # Python-Mastery
 Jupyter Notebook Series Description: Welcome to the Python Mastery repository, an extensive collection of Jupyter notebooks covering a wide range of Python topics. This repository is a valuable resource for beginners and programming enthusiasts, providing comprehensive Jupyter notebook codes organized by topics such as variables, data types, loops, functions, data structures, algorithms, and more. Whether you are just starting with Python or aiming to master its intricacies, this repository offers practical examples and clear explanations to guide you through your learning journey.
-# Topics Covred : 
+## Topics Covred : 
 
 # Data Types:
 Variables
